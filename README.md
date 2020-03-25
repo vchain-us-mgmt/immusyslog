@@ -5,8 +5,7 @@ title: "immudb"
 ---
 -->
 
-# immudb [![Build Status](https://travis-ci.com/(https://bestpractices.coreinfrastructure.org/projects/2231) [![License: GPL v3+](https://img.shields.io/badge/License-GPL%20v3%2B-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![analytics](https://www.google-analytics.com/collect?v=1&aip=1&t=pageview&_s=1&ds=github&dr=https%3A%2F%2Fgithub.com%2Fnetdata%2Fnetdata&dl=https%3A%2F%2Fmy-netdata.io%2Fgithub%2Freadme&_u=MAC~&cid=5792dfd7-8dc4-476b-af31-da2fdb9f93d2&tid=UA-64295674-3)](<>)
-
+# immudb [![Build Status]]
 
 
 ---
@@ -68,7 +67,7 @@ Want to see Netdata live? Check out any of our [live demos](https://www.codenota
 
 ## User base
 
-Netdata is used by thousands of users all over the world. You will find people working for **Baidu**,
+immudb is used by thousands of users all over the world. You will find people working for **Baidu**,
 **Cisco Systems**, **Deutsche Telekom**, **DigitalOcean**, **Elastic**, **Ericsson**, **Groupon**, **Hortonworks**, **HP**, **Huawei**, **IBM**, **Nvidia**, **Red Hat**, **SAP**, **B2x**, **Acronis**, and many more!
 
 ### Docker pulls
